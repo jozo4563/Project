@@ -11,7 +11,7 @@ package swi_cviko;
  */
 public class Swi_cviko {
 
-    /**
+    /**ghghggh
      * @param args the command line arguments
      */
     public static void main(String[] args) {
