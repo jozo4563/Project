@@ -11,9 +11,7 @@ package swi_cviko;
  */
 public class Swi_cviko {
 
-    /**tuuuu
-     * @param args the command line arguments
-     */
+   
     public static void main(String[] args) {
         // TODO code application logic here
     }
